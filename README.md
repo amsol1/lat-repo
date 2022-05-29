@@ -1,1 +1,2 @@
 # lat-repo
+commit pertama
